@@ -13,7 +13,7 @@ Show a random NASA Astronomy Picture of the Day in a JupyterLab panel
 ## Install
 
 ```bash
-jupyter labextension install @mgw917/jupyterlab-pod
+jupyter labextension install @mgw917/jupyterlab-apod
 ```
 
 ## Contributing
@@ -53,5 +53,5 @@ jupyter lab --watch
 
 ```bash
 
-jupyter labextension uninstall jupyterlab-apod
+jupyter labextension uninstall @mgw917/jupyterlab-apod
 ```
